@@ -1,0 +1,6 @@
+{
+  "name": "SGB Portal - Analiz Demo",
+  "description": "Strateji Geliştirme Başkanlığı Portalı - Faaliyet Yönetim Sistemi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
